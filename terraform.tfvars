@@ -1,0 +1,5 @@
+resource_group_name = "osfe-san-fun-app-rg"
+location = "Australia east"
+function_app_name = "osfe-san-fun-app-name"
+storage_account_name = "osfesanstorgname"
+app_service_plan_name = "osfe-san-asp-name"
